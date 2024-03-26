@@ -1,0 +1,10 @@
+node_modules
+.cache
+build
+package.json
+pnpm-lock.yaml
+bake
+bin
+.DS_Store
+demo.tape
+CMakeUserPresets.json
